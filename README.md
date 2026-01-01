@@ -1,2 +1,2 @@
-# UTS-PEMROGRAMAN-JAVA
-Untuk Memenuhi Tugas UTS Pemrograman Java
+PEMROGRAMAN-JAVA
+Untuk Memenuhi Tugas UTS dan UAS Pemrograman Java
